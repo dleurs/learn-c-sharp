@@ -1,0 +1,14 @@
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/bin/Debug/net9.0/CompteBancaire
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/bin/Debug/net9.0/CompteBancaire.deps.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/bin/Debug/net9.0/CompteBancaire.runtimeconfig.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/bin/Debug/net9.0/CompteBancaire.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/bin/Debug/net9.0/CompteBancaire.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.AssemblyInfoInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.AssemblyInfo.cs
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.csproj.CoreCompileInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/refint/CompteBancaire.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.genruntimeconfig.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/ref/CompteBancaire.dll
