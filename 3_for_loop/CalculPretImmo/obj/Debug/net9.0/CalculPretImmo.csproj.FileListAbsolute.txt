@@ -1,0 +1,15 @@
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/bin/Debug/net9.0/CalculPretImmo
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/bin/Debug/net9.0/CalculPretImmo.deps.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/bin/Debug/net9.0/CalculPretImmo.runtimeconfig.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/bin/Debug/net9.0/CalculPretImmo.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/bin/Debug/net9.0/CalculPretImmo.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.AssemblyInfoInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.AssemblyInfo.cs
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.csproj.CoreCompileInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.sourcelink.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/refint/CalculPretImmo.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/CalculPretImmo.genruntimeconfig.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/3_for_loop/CalculPretImmo/obj/Debug/net9.0/ref/CalculPretImmo.dll

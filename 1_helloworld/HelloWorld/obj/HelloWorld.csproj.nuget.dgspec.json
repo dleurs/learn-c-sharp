@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dleurs/Documents/cobol/learn-c-sharp/HelloWorld/HelloWorld.csproj": {}
+    "/Users/dleurs/Documents/cobol/learn-c-sharp/1_helloworld/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/dleurs/Documents/cobol/learn-c-sharp/HelloWorld/HelloWorld.csproj": {
+    "/Users/dleurs/Documents/cobol/learn-c-sharp/1_helloworld/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dleurs/Documents/cobol/learn-c-sharp/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/dleurs/Documents/cobol/learn-c-sharp/1_helloworld/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/1_helloworld/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/dleurs/.nuget/packages/",
-        "outputPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/HelloWorld/obj/",
+        "outputPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/1_helloworld/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dleurs/.nuget/NuGet/NuGet.Config"

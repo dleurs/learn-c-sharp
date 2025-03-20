@@ -53,7 +53,6 @@ class Program
     {
         CompteBancaire compte = new CompteBancaire("Jean Dupont", 1000);
         compte.AfficherSolde();
-
         compte.Deposer(500);
         compte.Retirer(200);
         compte.Retirer(2000); 

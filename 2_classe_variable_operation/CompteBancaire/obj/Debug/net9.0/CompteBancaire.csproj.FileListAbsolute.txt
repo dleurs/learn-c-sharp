@@ -12,3 +12,4 @@
 /Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.pdb
 /Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.genruntimeconfig.cache
 /Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/ref/CompteBancaire.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/2_classe_variable_operation/CompteBancaire/obj/Debug/net9.0/CompteBancaire.sourcelink.json
