@@ -1,0 +1,15 @@
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/bin/Debug/net9.0/CalculRisqueKYC
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/bin/Debug/net9.0/CalculRisqueKYC.deps.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/bin/Debug/net9.0/CalculRisqueKYC.runtimeconfig.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/bin/Debug/net9.0/CalculRisqueKYC.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/bin/Debug/net9.0/CalculRisqueKYC.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.AssemblyInfoInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.AssemblyInfo.cs
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.csproj.CoreCompileInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.sourcelink.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/refint/CalculRisqueKYC.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/CalculRisqueKYC.genruntimeconfig.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau/CalculRisqueKYC/obj/Debug/net9.0/ref/CalculRisqueKYC.dll
