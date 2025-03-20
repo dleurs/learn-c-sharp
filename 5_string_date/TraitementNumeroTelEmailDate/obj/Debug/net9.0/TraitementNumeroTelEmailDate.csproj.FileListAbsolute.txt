@@ -1,0 +1,15 @@
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/bin/Debug/net9.0/TraitementNumeroTelEmailDate
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/bin/Debug/net9.0/TraitementNumeroTelEmailDate.deps.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/bin/Debug/net9.0/TraitementNumeroTelEmailDate.runtimeconfig.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/bin/Debug/net9.0/TraitementNumeroTelEmailDate.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/bin/Debug/net9.0/TraitementNumeroTelEmailDate.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.AssemblyInfoInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.AssemblyInfo.cs
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.csproj.CoreCompileInputs.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.sourcelink.json
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/refint/TraitementNumeroTelEmailDate.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.pdb
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/TraitementNumeroTelEmailDate.genruntimeconfig.cache
+/Users/dleurs/Documents/cobol/learn-c-sharp/5_string_date/TraitementNumeroTelEmailDate/obj/Debug/net9.0/ref/TraitementNumeroTelEmailDate.dll
