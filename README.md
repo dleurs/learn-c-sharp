@@ -6,6 +6,10 @@
 4. Évaluer le risque de fraude d'un client / KYC **(group item / tableau / trie)**
 5. Valider les emails, les numéros de téléphones et la date de naissance sur un data set.**(traitement sur les strings et dates, gestion des erreurs)**
 
+## Cours suivi 
+1. <a href="https://learn.microsoft.com/fr-fr/training/modules/csharp-literals-variables/">Stocker et récupérer des données avec des valeurs littérales et de variables en C#</a>
+
+
 
 ### Commandes
 
