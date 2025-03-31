@@ -1,3 +1,8 @@
+## Todo app C# .NET
+
+![Présentation GIF todo](./Mar-31-2025-16-38-28.gif)
+
+
 Backend en .NET 8 (API REST avec ASP.NET Core)
 
 Base de données SQLite
