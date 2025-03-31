@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau_trie/CalculRisqueKYC/CalculRisqueKYC.csproj": {}
+    "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/6_todo_app.csproj": {}
   },
   "projects": {
-    "/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau_trie/CalculRisqueKYC/CalculRisqueKYC.csproj": {
+    "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/6_todo_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau_trie/CalculRisqueKYC/CalculRisqueKYC.csproj",
-        "projectName": "CalculRisqueKYC",
-        "projectPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau_trie/CalculRisqueKYC/CalculRisqueKYC.csproj",
+        "projectUniqueName": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/6_todo_app.csproj",
+        "projectName": "6_todo_app",
+        "projectPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/6_todo_app.csproj",
         "packagesPath": "/Users/dleurs/.nuget/packages/",
-        "outputPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/4_tableau_trie/CalculRisqueKYC/obj/",
+        "outputPath": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dleurs/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,6 +61,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

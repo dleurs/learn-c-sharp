@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculRisqueKYC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca39f5c9a3cdcec80959f082571054724e3485cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a732b85d4e69c01d312257ec28a69a554343f7c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculRisqueKYC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculRisqueKYC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
