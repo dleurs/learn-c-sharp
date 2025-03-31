@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js",
+      "PackagePath": "staticwebassets/app.js"
+    },
+    {
       "Id": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.TaskManagerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

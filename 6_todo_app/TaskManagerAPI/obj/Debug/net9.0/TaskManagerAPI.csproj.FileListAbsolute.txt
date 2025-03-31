@@ -372,7 +372,6 @@
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cache
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/TaskManagerAPI.sourcelink.json
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/scopedcss/bundle/TaskManagerAPI.styles.css
-/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/staticwebassets.build.json
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/staticwebassets.development.json
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -388,3 +387,6 @@
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/TaskManagerAPI.pdb
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/TaskManagerAPI.genruntimeconfig.cache
 /Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/ref/TaskManagerAPI.dll
+/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz
+/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz
+/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz

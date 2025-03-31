@@ -4,7 +4,6 @@ using TaskManagerAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Ajouter SQLite
 builder.Services.AddDbContext<TaskDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -17,17 +16,17 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// Activer Swagger
+// Enable Swagger
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// 📌 Servir les fichiers statiques depuis wwwroot/
+// Serve static files from wwwroot/
 app.UseStaticFiles();
 
-// 📌 Définir "index.html" comme page par défaut
+// Redirect root URL to index.html
 app.MapGet("/", context =>
 {
     context.Response.Redirect("/index.html");

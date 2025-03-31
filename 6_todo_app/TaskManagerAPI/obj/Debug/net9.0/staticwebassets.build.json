@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZH/z5czSJ63qLNYLOr85CJUuDm8odPcdxJ+LqWUpT5U=",
+  "Hash": "U2G96bYf0k2lB8RNIybkParYr2059xlKIEJXOPJrE6w=",
   "Source": "TaskManagerAPI",
   "BasePath": "_content/TaskManagerAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz",
+      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz",
       "SourceId": "TaskManagerAPI",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/TaskManagerAPI",
-      "RelativePath": "index#[.{fingerprint=3ar29v8dhs}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=n7al9rwbnk}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,11 +31,74 @@
       "RelatedAsset": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "33xew22ez5",
-      "Integrity": "AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s=",
+      "Fingerprint": "whr8xc2a6v",
+      "Integrity": "NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "app#[.{fingerprint=d0vud6vdet}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xntd8mos8g",
+      "Integrity": "bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js"
+    },
+    {
+      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "styles#[.{fingerprint=461i0bcspx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2jqyd3m7vc",
+      "Integrity": "zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0vud6vdet",
+      "Integrity": "g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.js"
     },
     {
       "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
@@ -52,22 +115,43 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3ar29v8dhs",
-      "Integrity": "ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw=",
+      "Fingerprint": "n7al9rwbnk",
+      "Integrity": "89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css",
+      "SourceId": "TaskManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/",
+      "BasePath": "_content/TaskManagerAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "461i0bcspx",
+      "Integrity": "bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "index.3ar29v8dhs.html",
-      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz",
+      "Route": "app.d0vud6vdet.js",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004048582996"
+          "Quality": "0.001517450683"
         }
       ],
       "ResponseHeaders": [
@@ -77,15 +161,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246"
+          "Value": "658"
         },
         {
           "Name": "ETag",
-          "Value": "\"AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s=\""
+          "Value": "\"bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -101,30 +185,320 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw=\""
+          "Value": "W/\"g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ar29v8dhs"
+          "Value": "d0vud6vdet"
         },
         {
           "Name": "label",
-          "Value": "index.html"
+          "Value": "app.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw="
+          "Value": "sha256-g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk="
         }
       ]
     },
     {
-      "Route": "index.3ar29v8dhs.html",
+      "Route": "app.d0vud6vdet.js",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0vud6vdet"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk="
+        }
+      ]
+    },
+    {
+      "Route": "app.d0vud6vdet.js.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0vud6vdet"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001517450683"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9L+0qI80RndQH2Ei/UIbUftYUveiyod4kcDjkIn+bk="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/v7be8rhmyw-d0vud6vdet.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXeBGemJo2RNo7nsK3+RpEGLgjS/UNAqinNjcp0oC8A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002183406114"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
       "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -134,7 +508,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "329"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -142,11 +516,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw=\""
+          "Value": "\"89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.n7al9rwbnk.html",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002183406114"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n7al9rwbnk"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.n7al9rwbnk.html",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -156,7 +675,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ar29v8dhs"
+          "Value": "n7al9rwbnk"
         },
         {
           "Name": "label",
@@ -164,13 +683,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw="
+          "Value": "sha256-89sKg/V8iA4sEhmXz3loVzhjqAUgUD+Rpvue7KqPkfQ="
         }
       ]
     },
     {
-      "Route": "index.3ar29v8dhs.html.gz",
-      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz",
+      "Route": "index.n7al9rwbnk.html.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-n7al9rwbnk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -179,7 +698,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246"
+          "Value": "457"
         },
         {
           "Name": "Content-Type",
@@ -187,11 +706,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s=\""
+          "Value": "\"NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -209,7 +728,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ar29v8dhs"
+          "Value": "n7al9rwbnk"
         },
         {
           "Name": "label",
@@ -217,18 +736,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s="
+          "Value": "sha256-NE5Sp3AKdBMgc9n7oosRnXy6Yu9Vo7UnC/D/YEc5A9Q="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz",
+      "Route": "styles.461i0bcspx.css",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004048582996"
+          "Quality": "0.003496503497"
         }
       ],
       "ResponseHeaders": [
@@ -238,15 +757,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246"
+          "Value": "285"
         },
         {
           "Name": "ETag",
-          "Value": "\"AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s=\""
+          "Value": "\"zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "461i0bcspx"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98="
+        }
+      ]
+    },
+    {
+      "Route": "styles.461i0bcspx.css",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "461i0bcspx"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98="
+        }
+      ]
+    },
+    {
+      "Route": "styles.461i0bcspx.css.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "461i0bcspx"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003496503497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -262,23 +942,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw=\""
+          "Value": "W/\"bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw="
+          "Value": "sha256-bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
+      "Route": "styles.css",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -287,19 +967,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "329"
+          "Value": "564"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw=\""
+          "Value": "\"bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -309,13 +989,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZcSaP/j+lh/EUTzRcctI/4h1Db3/QWBdMaJBqCBTTXw="
+          "Value": "sha256-bKKyG1lcBxJMyvesDMWVFEQ8npgOHIn9fVVbV1oIa98="
         }
       ]
     },
     {
-      "Route": "index.html.gz",
-      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/fidzvtqa1q-3ar29v8dhs.gz",
+      "Route": "styles.css.gz",
+      "AssetFile": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/obj/Debug/net9.0/compressed/yueuhky69u-461i0bcspx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -324,19 +1004,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246"
+          "Value": "285"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s=\""
+          "Value": "\"zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 14:22:40 GMT"
+          "Value": "Mon, 31 Mar 2025 14:28:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -354,7 +1034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AVn/cU3kZcLg4LUXK7oQ9OhV0d0enpoYcnjpKD/8E+s="
+          "Value": "sha256-zvPjlfNvD91ji13gazXSZcROc05WOoy40zOVA6UYp68="
         }
       ]
     }
