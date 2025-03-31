@@ -1,6 +1,0 @@
-@_6_todo_app_HostAddress = http://localhost:5266
-
-GET {{_6_todo_app_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

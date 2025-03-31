@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dleurs/Documents/cobol/learn-c-sharp/6_todo_app/TaskManagerAPI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.TaskManagerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.TaskManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.TaskManagerAPI.props",
+      "PackagePath": "build\\TaskManagerAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TaskManagerAPI.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagerAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TaskManagerAPI.props",
+      "PackagePath": "buildTransitive\\TaskManagerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
